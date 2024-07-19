@@ -2,7 +2,7 @@
 public class Pull {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		String r="shannu";
 		String k="";
 		for(int i=r.length()-1; i>=0; i--)
